@@ -1,5 +1,10 @@
 # 心碎小狗顧問
 
+Open [傷心小狗顧問](https://emotional-context-web-grccxmtmma-uc.a.run.app) to know what are we doing!
+
+![home](./src/home_page.png)
+由於背景影片太大，前面附上的網址連結可能無法看到背景影片，但若在 local 端重新 run 的話應該是可以看到的！相關步驟如下所述！
+
 ## Available Scripts
 
 In the project directory, you can run:
